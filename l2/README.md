@@ -11,3 +11,7 @@ lambda. https://pyneng.readthedocs.io/ru/latest/book/10_useful_functions/lambda.
 map, filter. Пройдем на уроке, есть о чем поговорить.
 
 Если какую-то непонятную конструкцию увидели, не зацикливайтесь, на уроке разберем, ин щаа Ллах.
+
+### Видео
+
+[Ссылка](https://youtu.be/mUEG0XXB70E)
