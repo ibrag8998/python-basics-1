@@ -10,3 +10,7 @@
 Внутри каждой папки есть файл "lesson.py" - там весь код,
 который я писал в течение урока.
 И есть файл "README.md", в котором описано домашнее задание.
+
+# Видео
+
+[Канал на YouTube](https://www.youtube.com/channel/UCtIsytNUxEzIbhBAN87RMsQ)
