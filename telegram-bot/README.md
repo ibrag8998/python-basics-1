@@ -48,5 +48,5 @@
 
 ### Видео
 
-[1 часть](https://youtu.be/eiUed3Hjlno)
-[2 часть](https://youtu.be/kcTkLTY5SCA)
+- [1 часть](https://youtu.be/eiUed3Hjlno)
+- [2 часть](https://youtu.be/kcTkLTY5SCA)
