@@ -50,4 +50,4 @@
 
 - [1 часть](https://youtu.be/eiUed3Hjlno)
 - [2 часть](https://youtu.be/kcTkLTY5SCA)
-- [3 часть](https://)
+- [3 часть](https://youtu.be/m3f7ahpnOfs)
